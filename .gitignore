@@ -1,0 +1,22 @@
+# Laravel (Backend)
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/storage/framework/cache/*
+backend/storage/framework/sessions/*
+backend/storage/framework/views/*
+backend/storage/logs/*
+backend/public/storage
+
+# Next.js / Node.js (Frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*.local
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.log
